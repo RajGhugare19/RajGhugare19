@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- 🔭 I’m currently working at **[Ivlabs](https://www.ivlabs.in/)**, AI and robotics lab at VNIT
+- 🔭 I’m currently a part of **[Ivlabs](https://www.ivlabs.in/)**, a group of self motivated researchers
 - 🌱 I’m currently learning Statiscal inference in RL, bandit problems etc.
 - 👯 I often dwell upon the theory of sequential decision making and neural networks, other than that I’m also interested to collaborate on solving real life problems using robots,open-source for AI envs or any inventive project
 - 👯 I like psychology
