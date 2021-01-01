@@ -6,5 +6,4 @@
 - 👯 I like psychology and physics
 - 💬 You can knock my door for any AI or math related stuff
 - 📫 How to reach me: rajghugare.vnit@gmail.com
-
 - Ocassionally open sourcing with [JuliaReinforcementLearning](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl)
